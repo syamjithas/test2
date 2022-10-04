@@ -1,6 +1,6 @@
 import test from 'ft-common-util';
 const testOne = (): void => {
-	console.log('test');
+	console.log('testOne');
 };
 
 test();
